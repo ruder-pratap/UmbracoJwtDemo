@@ -24,3 +24,9 @@
 
 # Ignore the Models Builder models out of date flag
 **/App_Data/Models/ood.flag
+/.vs
+/JWTMemberAuth/.vs/JWTMemberAuth
+/JWTMemberAuth/JWTMemberAuth/bin
+/JWTMemberAuth/JWTMemberAuth/obj/Debug
+/JWTMemberAuth/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/JWTMemberAuth/JWTMemberAuth/JWTMemberAuth.csproj.user
